@@ -2,7 +2,7 @@
 ```
 src
 │__  main.py
-│__  ML_assignment1_documentation.txt    
+│   
 │   
 notebook
 |__ dataset_link.txt

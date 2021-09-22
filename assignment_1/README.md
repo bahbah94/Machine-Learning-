@@ -1,12 +1,12 @@
 
 ```
 src
-│   main.py
-│   ML_assignment1_documentation.txt    
+│__  main.py
+│__  ML_assignment1_documentation.txt    
 │   
-└───notebook
-    │   dataset_link.txt
-    │   flight_delay.ipynb
+notebook
+|__ dataset_link.txt
+|__ flight_delay.ipynb
 ```
 
 
